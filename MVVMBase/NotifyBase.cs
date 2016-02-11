@@ -2,7 +2,7 @@
 
 namespace MVVMBase
 {
-    class INotifyBase : INotifyPropertyChanged
+    class NotifyBase : INotifyPropertyChanged
     {
         #region INotifyPropertyChanged メンバー
 
